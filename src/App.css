@@ -1,14 +1,12 @@
 body{
   background-image: url("../public/img/weather.jpg");
   background-size: cover ;
-  background-size: 100% ;
-  background-repeat: no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
   width: 100%;
   min-height: 100vh;
-  margin: 0 c;
+  margin: 0;
 
  
 }
