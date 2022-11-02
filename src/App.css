@@ -1,0 +1,81 @@
+body{
+  background-image: url("../public/img/weather.jpg");
+  background-size: cover ;
+  background-size: 100% ;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-height: 100vh;
+  margin: 0 c;
+
+ 
+}
+.App{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(239, 245, 234, 0.329);
+  width: 360px ;
+  height: 500px;
+  border-radius: 10px;
+  flex-direction: column;
+  
+}
+.conteiner{
+  display: flex;
+  flex-direction: row;
+  
+  width: 350px;
+  overflow: hidden;
+ justify-content: space-around;
+ 
+}
+.stile{
+  display: flex;
+  
+ flex-direction: column;
+ color: blue;
+ 
+ height: 230px;
+
+ 
+
+}
+
+h2{
+  display: flex;
+  
+  justify-content: center;
+  color: blue;
+}
+h1{
+  display: flex;
+  
+  justify-content: center;
+}
+p{
+  display: flex;
+  margin-right: 250px;
+  
+}
+a{
+  color: black;
+}
+img{
+  
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  height: 130px;
+ 
+  margin-top: 50px;
+
+  
+  
+}
+button{
+  display: flex;
+  margin: 0 auto;
+}
